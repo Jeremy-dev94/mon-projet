@@ -9,3 +9,7 @@ span {
     display: flex;
     width: 600px;
 }
+
+main {
+    display: inline-block;
+}
